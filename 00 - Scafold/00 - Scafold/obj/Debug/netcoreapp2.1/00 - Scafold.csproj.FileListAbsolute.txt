@@ -1,0 +1,14 @@
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\bin\Debug\netcoreapp2.1\00 - Scafold.deps.json
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\bin\Debug\netcoreapp2.1\00 - Scafold.runtimeconfig.json
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\bin\Debug\netcoreapp2.1\00 - Scafold.runtimeconfig.dev.json
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\bin\Debug\netcoreapp2.1\00 - Scafold.dll
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\bin\Debug\netcoreapp2.1\00 - Scafold.pdb
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\obj\Debug\netcoreapp2.1\00 - Scafold.csprojAssemblyReference.cache
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\obj\Debug\netcoreapp2.1\00 - Scafold.csproj.CoreCompileInputs.cache
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\obj\Debug\netcoreapp2.1\00 - Scafold.RazorAssemblyInfo.cache
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\obj\Debug\netcoreapp2.1\00 - Scafold.RazorAssemblyInfo.cs
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\obj\Debug\netcoreapp2.1\00 - Scafold.AssemblyInfoInputs.cache
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\obj\Debug\netcoreapp2.1\00 - Scafold.AssemblyInfo.cs
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\obj\Debug\netcoreapp2.1\00 - Scafold.RazorTargetAssemblyInfo.cache
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\obj\Debug\netcoreapp2.1\00 - Scafold.dll
+C:\Users\patri\Dropbox\_ESTUDOS\RestWithASPNETUdemy\00 - Scafold\00 - Scafold\obj\Debug\netcoreapp2.1\00 - Scafold.pdb
