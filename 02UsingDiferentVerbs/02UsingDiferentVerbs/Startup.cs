@@ -2,10 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using _02UsingDiferentVerbs.Model.Context;
+using _02UsingDiferentVerbs.Services;
+using _02UsingDiferentVerbs.Services.Implementations;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -25,7 +29,15 @@ namespace _02UsingDiferentVerbs
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // Configuração de conexão com MySql
+            var connection = Configuration["MySqlConnection:MySqlConnectionString"];
+
+            services.AddDbContext<MySqlContext>(options => options.UseMySql(connection));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddApiVersioning();
+
+            // Injeção de dependência
+            services.AddScoped<IPersonService, PersonServiceImplementation>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
