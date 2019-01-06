@@ -8,7 +8,7 @@ namespace _02UsingDiferentVerbs.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class PersonController : ControllerBase
     {
         // GET api/values
         [HttpGet]
